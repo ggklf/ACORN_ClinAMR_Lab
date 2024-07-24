@@ -43,7 +43,7 @@ This virtual bioinformatics course will offer a series of lectures and practical
 
 | Course Date | Course Title | Location |Citation DOI |
 |-------------|--------------|----------|-------------|
-| 21 May - 6 June  | WCS ACORN - Bioinformatics for Antimicrobial Resistance | Virtual |Citation DOI TBC |
+| 21 May - 6 June 24  | WCS ACORN - Bioinformatics for Antimicrobial Resistance | Virtual |Citation DOI TBC |
 
 ******
 
