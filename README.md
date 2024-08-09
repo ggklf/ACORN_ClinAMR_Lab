@@ -1,141 +1,97 @@
 # <img src="course_data/WCS_ACORN_Logo.png"/>
 
-# WCS ACORN - Bioinformatics for Antimicrobial Resistance - Virtual 21 May–6 June 2024
+# Integrated AMR: From Genomic Analysis to Clinical Application - Africa & Asia
 
-Interactive training for functional analysis and interpretation of disease data using computational modelling tools
+## 15–20 September 2024, KEMRI-Wellcome Trust, Kilifi, Kenya
 
-## Course Overview
+[Wellcome Connecting Science Course Run Website Link](https://coursesandconferences.wellcomeconnectingscience.org/event/integrated-amr-from-genomic-analysis-to-clinical-application-africa-asia-20240915/) <br /> 
+[Course Time Table](https://github.com/WCSCourses/ACORN_ClinAMR_Lab/blob/main/ACORN_ClinicalAMR%20Lab_TimeTable.pdf) <br /> 
+[Course Informatics Guide](https://github.com/WCSCourses/ACORN_ClinAMR_Lab/blob/main/ACORN_ClinAMR_Lab_Course_InformaticsGuide.md)
 
-Antimicrobial resistance (AMR) is critical to monitor as it threatens modern medical and public health systems. The Clinically Oriented antimicrobial Resistance Network (ACORN) project is developing an effective AMR surveillance system across nine African and Asian countries.
+# Summary
 
-This course aims to train ACORN team members across nine centres with core bioinformatics skills which can be utilised to analyse and identify resistance from pathogen genome data.
+Implementing genomics is increasingly critical for effective surveillance of antimicrobial resistance (AMR), requiring the development of infrastructure and capacity through intensive training of scientists and healthcare staff. 
 
-This course is virtual and will run twice a week from 21 May until 6 June 2024
+A [Clinically Oriented Antimicrobial Resistance Network (ACORN)](https://acornamr.net/#/) is a Wellcome-funded, multi-country project aiming to establish clinical-based AMR surveillance in 15 sites across 9 African and Asian countries. The project focuses on bacteria that are highly prevalent as global AMR pathogens in both community- and hospital-acquired infections, including E. coli, K. pneumoniae, S. aureus, and Acinetobacter spp., the latter due to its rapid acquisition of multi-drug resistance mechanisms. Whole genome sequencing (WGS) offers a comprehensive and precise method for obtaining genetic data needed for accurate subtype classification, improved epidemiological investigations, and effective surveillance.
 
-[Course website](https://coursesandconferences.wellcomeconnectingscience.org/event/wcs-acorn-bioinformatics-for-antimicrobial-resistance-virtual-20240521/)
+Building upon the hospital network and genomic infrastructure developed by the project partners, ACORN, in collaboration with [Wellcome Connecting Science Learning and Training Programme](https://coursesandconferences.wellcomeconnectingscience.org/our-events/), and the [KEMRI Wellcome Trust Research Programme](https://kemri-wellcome.org/), introduces a week-long course covering genomics of AMR for bacterial pathogens. This course will include practical laboratory sessions using next-generation sequencing technologies, along with hands-on bioinformatics sessions for downstream data analysis for detecting resistance and identifying transmission patterns. Additionally, the course will dedicate time to capacity development strategies, considering existing and upcoming genomic implementation workflows, identifying gaps, and ensuring sustainability.
 
-## Course Content
+# Target audience
 
-This virtual bioinformatics course will offer a series of lectures and practical sessions including the following topics:
+This course is strictly by invitation to ACORN members from the various sites of operation nominated for this training, as well as additional delegates from the host institute.
 
-- Pathogen genome assembly
-- Annotation of pathogen genomes
-- Phylogenetics in clinical contexts
+# Programme
 
-## Learning Outcomes
+The course will cover the following topics:
 
-At the end of this course, participants will be able to:
+The end-to-end pathway of the application of genomics in ACORN sites
 
-- Apply appropriate tools to analyse WGS data of bacterial genomes
-- Identify sequencing data formats
-- Use pathogen genomic analysis web-tools to process sequence data
-- Execute the basic processes of genome assembly for pathogen species
-- Identify and interrogate antibiotic resistance genes and mutations
-- Implement data workflows and bioinformatic analysis of genomic sequence data, including risk and resistance prediction for bacterial epidemiology and pandemic response
-- Conduct phylogenetic analysis in the context of outbreak and other epidemiological investigations
-- Compare phylogenetic trees for different species and outbreak scenarios
+- The importance of sampling and storage of isolates (hospital vs community acquired, drug-resistant vs susceptible), and its impact on genomic data
+- The use of genomic analysis in outbreaks and AMR, using a real outbreak scenario
+- Implementing whole genome sequencing for infection prevention and control
+- Performing sequencing and analysis of sequence data for making clinical associations covering both Illumina short read sequencing and Oxford Nanopore long read sequencing.
+- Genomic data analysis and quality control from short and long read assembly to detecting resistance
+- Utilising tools developed by the Centre for Genomic Pathogen Surveillance (CPGS) such as Pathogen Watch, as well as other freely accessible tools for AMR analysis
+- Analysis and visualisation through the generation of phylogenetic trees 
+- Clinical interpretation of genomic data and how to present results for different audience groups. 
+- Building genomics capacity for AMR with a specific focus on workflows and sustainability.
 
-## Training Team
+The programme will also include a mandatory introductory Linux pre-course module to be completed before the start of the course.
+
+# Learning Outcomes:
+
+By the end of this course participants will be able to:
+
+- Identify which sequencing techniques are suitable for their specific diagnostic application/laboratory
+- Perform DNA extraction and sequencing protocols using both long and short read technologies
+- Generate phylogenetic trees for AMR using the relevant data and software
+- Analyse and interpret genomic data from clinical isolates for AMR surveillance
+- Identify the next steps to incorporate genomic techniques for the continuation of site-specific ACORN projects 
+
+**Course Instructors**      
+
 - [Trinh Son Tung](https://www.researchgate.net/profile/Tung-Trinh), Oxford University Clinical Research Unit (OUCRU)
 - [Patrick Musicha ](link),Sanger Institute, UK
 - [Julio Diaz](link),CPGR, UK
+- [Anne Amulele](link),KEMRI Wellcome Trust Research Programme, Kenya
+- [Rogier Van Doorn](https://www.tropicalmedicine.ox.ac.uk/team/h-rogier-van-doorn),ACORN, Vietnam
+- [Paul Turner ](https://www.tropicalmedicine.ox.ac.uk/team/paul-turner), ACORN, Cambodia
+- [Iruka Okeke](https://www.researchgate.net/profile/Iruka-Okeke), ACORN, Nigeria
 - [Arun Decano](link),University of Oxford, UK
 - [Rito Mikhari](link),National Institute for Communicable Diseases, South Africa
 - [Collins Kigen](link),Kenya Medical Research Institute
-- [Buhle Ntozini](link),National Institute for Communicable Diseases, South Africa
-- [Jorge Batista da Rocha](https://www.wellcomeconnectingscience.org/person/batista-da-rocha-jorge/), Wellcome Connecting Science
-- [Vaishnavi Vikas Gangadhar](https://www.wellcomeconnectingscience.org/person/gangadhar-vaishnavi/), Wellcome Connecting Science
-- [Isabela Malta](https://www.wellcomeconnectingscience.org/person/malta-isabela/), Wellcome Connecting Science
-- [Martin Aslett](https://www.wellcomeconnectingscience.org/person/aslett-martin/), Wellcome Connecting Science
-- [Alice Matimba](https://www.wellcomeconnectingscience.org/person/matimba-alice/#), Wellcome Connecting Science
+- [Agilakumari Pragasam](link), OUCRU, Vietnam
+- [Stanford Kwenda](link), NICD, South Africa 
 
-### Detailed timetable
-[View Timetable here](ACORN_TimeTable.pdf)
+**Wellcome Connecting Science Team**    
 
-## Course Manual
+- [Jorge Batista da Rocha](https://www.wellcomeconnectingscience.org/person/batista-da-rocha-jorge/), Education Developer
+- [Cassandra Soo](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiHsomN3oP-AhUjSkEAHRWxDaYQFnoECA4QAQ&url=https%3A%2F%2Fuk.linkedin.com%2Fin%2Fcassandra-claire-soo-b3783277%2Fms%3Ftrk%3Dpeople-guest_people_search-card&usg=AOvVaw3virsoWY_4fVRTpWiL8yDE), Laboratory Courses Manager
+- [Aaron Dean](https://www.wellcomeconnectingscience.org/about-us/our-people/#{%22-%22:{%22text%22:%22aaron%22}}), Laboratory Technical Officer
+- [Scarlett Storr](https://www.wellcomeconnectingscience.org/person/storr-scarlett/), Events Organiser
+- [Isabela Malta](https://www.wellcomeconnectingscience.org/person/malta-isabela/), Assistant Overseas Courses Manager
+- [Martin Aslett](https://www.wellcomeconnectingscience.org/person/aslett-martin/), Informatics Manager
+- [Alice Matimba](https://www.wellcomeconnectingscience.org/person/matimba-alice/#), Head of Training and Global Capacity
+- [Michelle Bishop](https://www.wellcomeconnectingscience.org/person/bishop-michelle/#), Associate Director
 
-**Pre-Course Module**        
-[Introduction to Linux for Biologists (ACORN)](https://lms.wellcomeconnectingscience.org/course/view.php?id=165)         
-**Pre-Course Video**           
-[Introduction to Sequening](https://youtu.be/4VZjvYJN18w)        
-**Learning and Management (LMS)Course**           
-[Bioinformatics for Antimicrobial Resistance - Virtual course](https://lms.wellcomeconnectingscience.org/course/view.php?id=165)
-
-**Week 1: Day 1**   
-**21 May Tuesday: Bash, File formats**  
-- [Day 1_Plan](course_data/21_May_Day_1/Day1_Plan.md) 
-- [Module 1:_Bash and file formats Slides](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/21_May_Day_1/WCS_ACORN_Course_Slides_Module1_Bash_and_fileformats_20%20May%202024.pptx.pdf)  
-- [Module1:_Quality Control Slides](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/21_May_Day_1/WCS_ACORN_Course_Slides_Module1_Quality_Control_15_May_2024_updated.pptx.pdf)
-- [Colab Notebook for Module 1 (part 1)](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/21_May_Day_1/Module_1_part1_ACORN(updated)_vBioinf.ipynb)
-- [Colab Notebook for Module 1 (part2)](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/21_May_Day_1/Module_1_part2_ACORN_vBioinf.ipynb)  
-- [Lecture Video: Bash](https://youtu.be/Nby862Cm7Ac)
-- [Lecture Video: File formats ](https://youtu.be/RQaskuunQic)
-- [Lecture Video: Quality Control](https://youtu.be/s79XYtdTxkI)  
-- [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6055)  
-- [Assignment](https://lms.wellcomeconnectingscience.org/mod/assign/view.php?id=6056)
-  
-### Module 2: Read Alignment
-- [Day 2 Plan](course_data/23_May_Day_2/Day2_Plan.md)
-- [Module 2:_Read Alignment](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/23_May_Day_2/WCS_ACORN_Course_Slides_Read_Alignment.pptx.pdf)
-- [Colab Notebook for Module 2](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/23_May_Day_2/Module_2_ACORN_Read_alignments.ipynb)
-- [Lecture Video: Read Alignment]( https://youtu.be/TETeTurOlkQ)
-- [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6064)  
-- [Assignment](https://lms.wellcomeconnectingscience.org/mod/assign/view.php?id=6065)
-
-**Week 2: Day 3**   
-**28 May Tuesday: Genome Assembly**  
-- [Day 3 Plan](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/28_May_Day_3/Day3_Plan.md)
-- [Module 3: Genome Assembly](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/28_May_Day_3/GenomeAssembly_ACORN_Course_Slides.pdf)
-- [Colab Notebook for Module 3](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/28_May_Day_3/Module_3_Genome_Assembly.ipynb)
-- [Lecture Video: Genome Assembly](https://youtu.be/NTToDDm3LZ0)
-- [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6072)  
-- [Assignment](https://lms.wellcomeconnectingscience.org/mod/assign/view.php?id=6073)
-
-**Week 2: Day 4**   
-**30 May Thursday: Typing, AMR databases**  
-- [Day 4 Plan](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/30_May_Day_4/Day4_Plan.md)
-- [Module 4: Typing](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/30_May_Day_4/typing_tungts_April1_2024_v2.pptx.pdf)
-- [Colab Notebook for Module 4](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/30_May_Day_4/Module_4_ACORN_vBioinf.ipynb)
-- [Lecture Video: Typing Video 1](https://youtu.be/l8JW_HQrnF4)
-- [Lecture Video: Typing Video 2](https://youtu.be/LZkAJe9qmWE)
-- [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6076)  
-- [Assignment](https://lms.wellcomeconnectingscience.org/mod/assign/view.php?id=6077)
-
-
-**Week 3: Day 5**   
-**4 June Tuesday: Genome Annotation, PathogenWatch**  
-- [Day 5 Plan](https://github.com/WCSCourses/ACORN-ClinAMR/tree/main/course_data/4_June_Day_5)
-- [Module 5: Genome Annotation and PathogenWatch](course_data/4_June_Day_5/WCS_ACORN_Course_Slides_Module5_PathogenWatch.pdf)
-- [Module 5: Bacterial Genome Annotation Slides](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/4_June_Day_5/Bacterial_Genome_Annotation.pdf)
-- [PathogenWatch Website](https://pathogen.watch/)
-- [Part 1 - Lecture Video: Genome Annotation Video](https://youtu.be/Iwbcmg6eol0)
-- [Part 1 - Practical Introduction Video: Genome Annotation (PathogenWatch) Video](https://youtu.be/3goUgEYdKcM)
-- [Part 1 - Colab Notebook - Genome Annotation](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/4_June_Day_5/BacterialGenomeAnnotation.ipynb)
-- Part 2 - Pathogen Watch Lecture - Live
-- [Part 2 - Pathogen Watch Practical- pdf version, paste into word](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/4_June_Day_5/Pathogenwatch_practical_assignment.docx.pdf)
-- Word version on LMS too if preferred
-- [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6093)  
-- [Assignment](https://lms.wellcomeconnectingscience.org/mod/assign/view.php?id=6094)
-  
-
-**Week 3: Day 6**   
-**6 June Thursday: Phylogenetics, Surveillance**  
-- [Day 6 Plan](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/30_May_Day_4/Day4_Plan.md)
-- [Module 6: Phylogentics Surveillance](https://lms.wellcomeconnectingscience.org/course/view.php?id=164&sectionid=1319)
-- [Module 6: Phylogentics Surveillance Slides](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/6_June_Day_6/Phylogenetics.pdf)
-- [Module 6: Phylogenetics Slides](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/6_June_Day_6/surveillance_slides.pdf)
-- [Colab Notebook for Module 6](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/6_June_Day_6/Analysing_Phylogenetics_ACORNrwrk_docx.ipynb)
-- [Lecture Video:  Surveillance Video](https://youtu.be/UNZAXpnHFgs)
-- [Lecture Video: Phylogenetics  Video](https://youtu.be/TZrlZ7DqHSs)
-- [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6096)  
-- [Assignment](https://lms.wellcomeconnectingscience.org/mod/assign/view.php?id=6095)
-
-<!---
---->
-
-Any reuse of the course materials, data or code is encouraged with due acknowledgement.
 
 ******
-## License
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
 
+## Citing and Re-using Course Material
+
+The course data are free to reuse and adapt with appropriate attribution. All course data in these repositories are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>. <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /> 
+
+## Interested in attending a course?
+
+Take a look what courses are coming up at [Wellcome Connecting Science Courses & Conference Website](https://coursesandconferences.wellcomeconnectingscience.org/our-events/).
+
+---
+
+For more information or queries, feel free to contact us via the [Wellcome Connecting Science website](https://coursesandconferences.wellcomeconnectingscience.org).<br /> 
+
+
+Find us on socials [Wellcome Connecting Science Linktr](https://linktr.ee/eventswcs)
+
+---
+
+[Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) <br /> 
