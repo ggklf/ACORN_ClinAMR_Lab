@@ -1,6 +1,7 @@
-# <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> Add Course Title Informatics Guide
+# <img src="course_data/WCS_ACORN_Logo.png"/>
+# Integrated AMR: From Genomic Analysis to Clinical Application - Africa & Asia Informatics Guide
 
-**Softwares used during the course**      
+**Software used during the course**      
 
 | Software | Version (if not latest) | Module |Notes |
 |-------------|--------------|----------|-------------|
