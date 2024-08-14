@@ -71,6 +71,7 @@ By the end of this course participants will be able to:
 - [Scarlett Storr](https://www.wellcomeconnectingscience.org/person/storr-scarlett/), Events Organiser
 - [Isabela Malta](https://www.wellcomeconnectingscience.org/person/malta-isabela/), Assistant Overseas Courses Manager
 - [Martin Aslett](https://www.wellcomeconnectingscience.org/person/aslett-martin/), Informatics Manager
+- [Vaishnavi Vikas Gangadhar](https://www.wellcomeconnectingscience.org/person/gangadhar-vaishnavi/), Informatics Technical Officer
 - [Alice Matimba](https://www.wellcomeconnectingscience.org/person/matimba-alice/#), Head of Training and Global Capacity
 - [Michelle Bishop](https://www.wellcomeconnectingscience.org/person/bishop-michelle/#), Associate Director
 
