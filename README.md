@@ -53,7 +53,7 @@ By the end of this course participants will be able to:
 - [Trinh Son Tung](https://www.researchgate.net/profile/Tung-Trinh), Oxford University Clinical Research Unit (OUCRU)
 - [Patrick Musicha ](link),Sanger Institute, UK
 - [Julio Diaz](link),CPGR, UK
-- [Anne Amulele](link),KEMRI Wellcome Trust Research Programme, Kenya
+- [Anne Amulele](link),KEMRI Wellcome Trust Research Programme, Kilifi, Kenya
 - [Rogier Van Doorn](https://www.tropicalmedicine.ox.ac.uk/team/h-rogier-van-doorn),ACORN, Vietnam
 - [Paul Turner ](https://www.tropicalmedicine.ox.ac.uk/team/paul-turner), ACORN, Cambodia
 - [Iruka Okeke](https://www.researchgate.net/profile/Iruka-Okeke), ACORN, Nigeria
@@ -62,7 +62,7 @@ By the end of this course participants will be able to:
 - [Collins Kigen](link),Kenya Medical Research Institute
 - [Agilakumari Pragasam](link), OUCRU, Vietnam
 - [Stanford Kwenda](link), NICD, South Africa 
-
+- [George Githinji](link),KEMRI-Wellcome Trust Research Programme, Kilifi, Kenya
 **Wellcome Connecting Science Team**    
 
 - [Jorge Batista da Rocha](https://www.wellcomeconnectingscience.org/person/batista-da-rocha-jorge/), Education Developer
