@@ -63,6 +63,7 @@ By the end of this course participants will be able to:
 - [Agilakumari Pragasam](link), OUCRU, Vietnam
 - [Stanford Kwenda](link), NICD, South Africa 
 - [George Githinji](link),KEMRI-Wellcome Trust Research Programme, Kilifi, Kenya
+
 **Wellcome Connecting Science Team**    
 
 - [Jorge Batista da Rocha](https://www.wellcomeconnectingscience.org/person/batista-da-rocha-jorge/), Education Developer
